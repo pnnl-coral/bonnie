@@ -14,25 +14,33 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #220e24;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #639cd9;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #639cd9;
 }
 
-@keyframes App-logo-spin {
+.bubble {
+  border: 1px solid;
+  animation-name: bubble-move;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bubble-move {
   from {
-    transform: rotate(0deg);
+    transform: scaleX(2);
+    transform: scaleY(2);
   }
   to {
-    transform: rotate(360deg);
+    transform: scaleX(10);
+    transform: scaleY(10);
   }
 }
