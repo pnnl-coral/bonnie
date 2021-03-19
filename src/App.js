@@ -20,8 +20,8 @@ const renderBubble = () => {
     const size = Math.floor(Math.random() * 16) + 8;
     let styles = {
       position: 'absolute',
-      top: Math.random()*height,
-      right: Math.random()*width,
+      top: Math.random()*(height - 40),//since I have css size, don't want the window resizing with animation
+      right: Math.random()*(width - 40),
       width: `${size}px`,
       height: `${size}px`,
       borderRadius: `${size}px`,
