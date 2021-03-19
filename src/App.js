@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-const endDate = new Date(2021, 4,30);
+const endDate = new Date(2021, 3,30);
 
 const calcDays = () => {
   const today = new Date();
