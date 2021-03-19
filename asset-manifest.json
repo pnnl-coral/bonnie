@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bonnie/static/css/main.51ca849d.chunk.css",
+    "main.js": "/bonnie/static/js/main.44abe040.chunk.js",
+    "main.js.map": "/bonnie/static/js/main.44abe040.chunk.js.map",
+    "runtime-main.js": "/bonnie/static/js/runtime-main.07cbbf35.js",
+    "runtime-main.js.map": "/bonnie/static/js/runtime-main.07cbbf35.js.map",
+    "static/js/2.a1acab86.chunk.js": "/bonnie/static/js/2.a1acab86.chunk.js",
+    "static/js/2.a1acab86.chunk.js.map": "/bonnie/static/js/2.a1acab86.chunk.js.map",
+    "static/js/3.47e52e37.chunk.js": "/bonnie/static/js/3.47e52e37.chunk.js",
+    "static/js/3.47e52e37.chunk.js.map": "/bonnie/static/js/3.47e52e37.chunk.js.map",
+    "index.html": "/bonnie/index.html",
+    "static/css/main.51ca849d.chunk.css.map": "/bonnie/static/css/main.51ca849d.chunk.css.map",
+    "static/js/2.a1acab86.chunk.js.LICENSE.txt": "/bonnie/static/js/2.a1acab86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07cbbf35.js",
+    "static/js/2.a1acab86.chunk.js",
+    "static/css/main.51ca849d.chunk.css",
+    "static/js/main.44abe040.chunk.js"
+  ]
+}
